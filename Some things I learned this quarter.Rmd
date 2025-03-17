@@ -1,47 +1,38 @@
 ---
 title: "Some things I learned this quarter"
 subtitle: "FISH 549"
-author: "Kiersten Maxwell"
-email: "kjmaxwel@uw.edu"
+author: "Kiersten Maxwell (kjmaxwel@uw.edu)"
 output: ioslides_presentation
 ---
 
 # Introduction
 
-# About me
-
-## Personal
+## About me | Personal
 
 - Born in Santa Barbara, CA
 - Favorite food(s): avocado and any asain cuisine
 - Favorite animal(s): Dog 
 
-# About me (continued)
-
-## Academic
+## About me | Academic
 
 - Undergraduate institution: University of Colorado, Boulder
 - Undergraduate major: Environmental Engineering, Applied Ecology
 
 # Data science
 
-# Course topics
-
-## 3 things I enjoyed learning about
+## Course topics | 3 things I enjoyed learning about:
 
 1. Learning how to make a website
 2. Learning how to make a formatted pdf to a Journal's specifications
 3. Learning how to use GitHub
 
-# Course topics
-
-## 3 things I’d like to learn more about
+## Course topics | 3 things I’d like to learn more about:
 
 1. How to perfect figures for publishing
 2. How to manage and organize data
 3. How GitHub is used professionally
 
-# Thanks!
+## 
 
-```{r, echo=FALSE, out.width='100%', fig.align='center'}
-knitr::include_graphics("C:/Users/kiers/OneDrive/Desktop/FISH 552&553/assignment---8/Mona.pic.jpeg")
+```{r, echo=FALSE, out.width='100%', fig.align='cover'}
+knitr::include_graphics("C:/Users/kiers/OneDrive/Desktop/FISH 552&553/assignment---8/Mona.pic.jpeg") 
